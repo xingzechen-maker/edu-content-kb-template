@@ -1,0 +1,4 @@
+# OCR 脚本依赖（xlsx 解析与 HTML 工具仅用 Python 标准库，无需安装）
+pypdfium2>=4.0
+pillow>=10.0
+# 另需系统级安装 tesseract 及中文语言包 chi_sim，不在 pip 管理范围
